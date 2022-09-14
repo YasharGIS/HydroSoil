@@ -1,4 +1,4 @@
-## Welcome to Yahsar King the First page
+## Welcome to Yashar King the First page
 
 You can use the [editor on GitHub](https://github.com/YasharGIS/hydrosoil/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
