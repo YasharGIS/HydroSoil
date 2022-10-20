@@ -12,8 +12,9 @@
 
 **Postdocral Scholar**
 
-[link](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=11)
+in this [link](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=11), you can learn more about deep learning. 
 
+this image is a part of my ongoing project on the imapct of land use change on fresh water quality, specially in rivers 
 ![image](https://user-images.githubusercontent.com/54947386/197052327-b674f9b4-92b4-49b2-8085-6e1534c0b672.png)
 
 
