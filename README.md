@@ -11,8 +11,14 @@ My [Google Scholar](https://scholar.google.com/citations?user=ZdaCktYAAAAJ&hl=en
 My [Twitter](https://twitter.com/Yaasharr) account
 
 
-**Resources about machine learning**
+## **Resources about machine learning**
+
 in this [link](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=11), you can learn more about deep learning. 
+
+
+
+
+
 
 
 
