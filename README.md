@@ -13,7 +13,7 @@ My [Twitter](https://twitter.com/Yaasharr) account
 
 ## **Resources about machine learning**
 
-in this [link](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=11), you can learn more about deep learning. 
+- in this [link](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=11), you can learn more about deep learning. 
 
 
 
