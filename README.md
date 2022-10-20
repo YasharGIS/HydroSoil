@@ -2,20 +2,57 @@
 ## I will be posting soon!
 
 
-# chapter one 
-## Land Use change in Response to Climate Change
-### Study Area and Open Access 
-- chachtawhatchi 
-- hickahala 
-1. Alanama, Florida
-2. Mississippi 
+
 
 **Postdocral Scholar**
+My [Google Scholar](https://scholar.google.com/citations?user=ZdaCktYAAAAJ&hl=en)
+My [Twitter](https://twitter.com/Yaasharr) account
 
+
+**Resources about machine learning**
 in this [link](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=11), you can learn more about deep learning. 
 
-this is me when we were on a data collection campaign in Mississippi 
+
+
+
 ![word could](https://user-images.githubusercontent.com/54947386/197055002-d56e4302-a3c7-4f20-9e2d-7d69b2ba9756.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Markdown
