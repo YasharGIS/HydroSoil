@@ -4,7 +4,7 @@
 
 
 
-# **Postdocral Scholar**
+# **Postdoctoral Scholar**
 
 My [Google Scholar](https://scholar.google.com/citations?user=ZdaCktYAAAAJ&hl=en)
 
