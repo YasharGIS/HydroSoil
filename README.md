@@ -16,7 +16,7 @@ My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 ## **Satellite Remote Sensing**
 
 
-![G4good](https://user-images.githubusercontent.com/54947386/198856051-2eeb82b7-2ec6-4062-ba6e-9d4d3f8dfde6.jpg)
+![G4good](https://user-images.githubusercontent.com/54947386/198856051-2eeb82b7-2ec6-4062-ba6e-9d4d3f8dfde6.jpg=250x250)
 
 
 
