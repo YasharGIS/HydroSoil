@@ -35,7 +35,9 @@ My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 
 
 ## **Webinars/Seminars**
+- Making Waves in Water Science: Open Source Tools for Water Science [link](https://us06web.zoom.us/w/88448060835?tk=R5D4dILd7Z0JMuA0t0BC7jnd-zWLygFCSDtYpLJcQyU.DQMAAAAUl-pNoxZ0TkUzU1NNY1JSU1pROGxIQUpkaWlBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=QlloYk9rUUJzT3dsWlFGMFJCaFNmQT09)
 - 
+
 - 
 - 
 
