@@ -1,5 +1,5 @@
-## UNDER CONSTRUCTION
-you can still find some usefull info
+## ^^ UNDER CONSTRUCTION ^^
+You can still find some usefull info
 
 
 
@@ -29,7 +29,10 @@ My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 
 
 
-
+- 
+- 
+- 
+- 
 
 ![word could](https://user-images.githubusercontent.com/54947386/197055002-d56e4302-a3c7-4f20-9e2d-7d69b2ba9756.png)
 
@@ -93,5 +96,6 @@ Syntax highlighted code block
 
 
 ### Support or Contact
-
+![image](https://user-images.githubusercontent.com/54947386/198844161-8e353a0b-ca7d-42c0-8200-99d9fd40c6ea.png)
+):
 
