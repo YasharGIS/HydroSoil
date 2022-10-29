@@ -17,6 +17,7 @@ My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 ## **Resources about Machine Learning**
 
 -[Here](https://www.youtube.com/channel/UCNdzK4hxCrsjsdjDwRrIISA), you can learn more about machine learning and remote sensing.
+
 -[Here](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=11), you can learn more about deep learning. 
 
 
