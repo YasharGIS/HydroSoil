@@ -1,4 +1,4 @@
-## ^^ UNDER CONSTRUCTION ^^
+## ^^ UNDER CONSTRUCTION 
 You can still find some usefull info
 
 
@@ -16,10 +16,8 @@ My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 
 ## **Resources about Machine Learning**
 
--[Here](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=11), you can learn more about deep learning. 
-
 -[Here](https://www.youtube.com/channel/UCNdzK4hxCrsjsdjDwRrIISA), you can learn more about machine learning and remote sensing.
-
+-[Here](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=11), you can learn more about deep learning. 
 
 
 
@@ -97,5 +95,4 @@ Syntax highlighted code block
 
 ### Support or Contact
 ![image](https://user-images.githubusercontent.com/54947386/198844161-8e353a0b-ca7d-42c0-8200-99d9fd40c6ea.png)
-):
 
