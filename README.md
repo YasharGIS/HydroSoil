@@ -7,8 +7,6 @@ You can still find some usefull info
 
 # **Postdoctoral Scholar**
 
-My [CV](https://yashargis.github.io/HydroSoil/CV_YasharMakhtoumi.pdf)
-
 My [Google Scholar](https://scholar.google.com/citations?user=ZdaCktYAAAAJ&hl=en)
 
 My [Twitter](https://twitter.com/Yaasharr) account
