@@ -1,5 +1,5 @@
-## Welcome to Yashar Makhtoumi's page
-## I will be posting soon!
+## Under Construction; you can still find some usefull info
+
 
 
 
@@ -11,10 +11,10 @@ My [Google Scholar](https://scholar.google.com/citations?user=ZdaCktYAAAAJ&hl=en
 My [Twitter](https://twitter.com/Yaasharr) account
 
 
-## **Resources about machine learning**
+## **Resources about Machine Learning**
 
-- in this [link](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=11), you can learn more about deep learning. 
-
+-[Here](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=11), you can learn more about deep learning. 
+-[Here](https://www.youtube.com/channel/UCNdzK4hxCrsjsdjDwRrIISA), you can learn more about machine learning and remote sensing.
 
 
 
