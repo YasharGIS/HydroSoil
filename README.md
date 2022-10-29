@@ -13,6 +13,10 @@ My [Twitter](https://twitter.com/Yaasharr) account
 
 My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 
+## **Satellite Remote Sensing**
+-
+-
+
 
 ## **Resources about Machine Learning**
 
@@ -20,6 +24,7 @@ My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 
 -[Here](https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=11), you can learn more about deep learning. 
 
+-[A book chapter]()
 
 
 
@@ -28,7 +33,8 @@ My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 
 
 
-- 
+
+## **Webinars/Seminars**
 - 
 - 
 - 
