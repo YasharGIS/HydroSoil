@@ -1,7 +1,8 @@
 ## ^^ UNDER CONSTRUCTION 
 You can still find some usefull info
 
-
+github:
+  is_project_page: false
 
 
 
