@@ -1,7 +1,7 @@
 ## :construction_worker_man: UNDER CONSTRUCTION 
 You can still find some usefull info
 
-background-image: url(https://user-images.githubusercontent.com/54947386/197055002-d56e4302-a3c7-4f20-9e2d-7d69b2ba9756.png)
+background-image: url(.../54947386/197055002-d56e4302-a3c7-4f20-9e2d-7d69b2ba9756.png)
 
 
 
