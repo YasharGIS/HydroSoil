@@ -30,7 +30,8 @@ My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 
 
 
-
+## **Learn R Basics and ggplot/2**
+-[Here](https://r.patrickbloniasz.com/?page_id=39), resources about R basics.
 
 
 
