@@ -32,6 +32,7 @@ My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 
 ## **Learn R Basics and ggplot/2**
 -[Here](https://r.patrickbloniasz.com/?page_id=39), resources about R basics.
+
 -Centrerized resources about R/GGplot [here](https://r.patrickbloniasz.com/).
 
 
@@ -85,24 +86,6 @@ My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 
 
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 
 ### Support or Contact
