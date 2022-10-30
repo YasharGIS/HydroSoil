@@ -32,13 +32,14 @@ My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 
 ## **Learn R Basics and ggplot/2**
 -[Here](https://r.patrickbloniasz.com/?page_id=39), resources about R basics.
+-Centrerized resources about R/GGplot [here](https://r.patrickbloniasz.com/).
 
 
 
 
 ## **Webinars/Seminars**
 - Making Waves in Water Science: Open Source Tools for Water Science [link](https://us06web.zoom.us/w/88448060835?tk=R5D4dILd7Z0JMuA0t0BC7jnd-zWLygFCSDtYpLJcQyU.DQMAAAAUl-pNoxZ0TkUzU1NNY1JSU1pROGxIQUpkaWlBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&pwd=QlloYk9rUUJzT3dsWlFGMFJCaFNmQT09)
-- 
+- [GGplot2 workshop](https://www.youtube.com/watch?v=WeOCInWudvo), on Nov. 5th, 9 am EST.
 
 - 
 - 
