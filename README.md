@@ -12,10 +12,27 @@ My [Twitter](https://twitter.com/Yaasharr) account
 
 My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 
+
+
+## **Hydrology and Earth System Modeling**
+
+-
+
+-
+
 ## **Satellite Remote Sensing**
 
+-
+
+-
 
 
+
+## **Geospatial Analysis**
+
+-
+
+-
 
 
 
