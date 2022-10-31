@@ -28,7 +28,7 @@ My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 
 
 
-## **Geospatial Analysis**
+## **Land Use Change and Geospatial Analysis**
 
 -
 
