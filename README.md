@@ -22,7 +22,7 @@ My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 
 ## **Satellite Remote Sensing**
 
-- Check out this new paper(https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022AV000680) on building user-readiness on NASA satellite mission on surface water (SWOT).
+- Check out [this new paper](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2022AV000680) on building user-readiness on NASA satellite mission on surface water (SWOT).
 
 -
 
