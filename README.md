@@ -6,8 +6,6 @@ You can still find some usefull info
 
 # **Postdoctoral Scholar**
 
-My [Google Scholar](https://scholar.google.com/citations?user=ZdaCktYAAAAJ&hl=en)
-
 My [Twitter](https://twitter.com/Yaasharr) account
 
 My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
