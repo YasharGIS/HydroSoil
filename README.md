@@ -1,4 +1,4 @@
-## :construction_worker_man: UNDER CONSTRUCTION (Yashar Makhtoumi)
+## :construction_worker_man: Yashar Makhtoumi
 You can still find some usefull info
 
 
