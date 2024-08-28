@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Data Scientist | Developer | Researcher</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Welcome to my personal website! I am a data scientist with expertise in machine learning, GIS, and environmental research. I enjoy turning data into actionable insights and building tools that make a difference.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Project 1</h3>
+            <p>Description of your first project. Explain what you did, the technologies you used, and the impact of the project.</p>
+        </div>
+        <div class="project">
+            <h3>Project 2</h3>
+            <p>Description of your second project. Include details about the process, challenges, and outcomes.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me via email or connect with me on LinkedIn.</p>
+        <ul>
+            <li>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a></li>
+            <li>GitHub: <a href="https://github.com/username">github.com/username</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
