@@ -33,16 +33,10 @@ Welcome to my personal website. Here you'll find information about my projects, 
 
 
 
-
-
-
-
-
-
-
-
 (:construction_worker_man: under construction)
 You can still find some useful info.
+
+
 
 
 
