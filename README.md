@@ -103,6 +103,6 @@ My [LinkedIn](https://www.linkedin.com/in/yashar-makhtoumi-131189b0) account
 
 
 
-### Support or Contact
+### Contact
 ![image](https://user-images.githubusercontent.com/54947386/198844161-8e353a0b-ca7d-42c0-8200-99d9fd40c6ea.png)
 
