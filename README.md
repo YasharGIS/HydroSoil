@@ -6,6 +6,15 @@ You can still find some useful info.
 
 
 
+# My Personal Website
+
+[Home](./) | [Projects](./projects) | [Blog](./blog) | [About](./about) | [Contact](./contact)
+
+---
+
+Welcome to my personal website. Here you'll find information about my projects, blog posts, and more.
+
+
 
 # **Postdoc at UW-Madison**
 
