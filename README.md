@@ -20,7 +20,6 @@
 
 
 
-# My Personal Website
 
 <a href="./" class="button">Home</a>
 <a href="./projects" class="button">Projects</a>
@@ -49,13 +48,6 @@ You can still find some useful info.
 
 
 
-# My Personal Website
-
-[Home](./) | [Projects](./projects) | [Blog](./blog) | [About](./about) | [Contact](./contact)
-
----
-
-Welcome to my personal website. Here you'll find information about my projects, blog posts, and more.
 
 
 
