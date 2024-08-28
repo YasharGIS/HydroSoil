@@ -2,7 +2,7 @@
 (:construction_worker_man: Under construction)
 
 
-You can still find some useful info
+You can still find some useful info.
 
 
 
