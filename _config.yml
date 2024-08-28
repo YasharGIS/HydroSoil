@@ -1,5 +1,39 @@
 theme: jekyll-theme-cayman
+title: "Your Name"
+description: "Data Scientist | Developer | Researcher"
 github:
   is_project_page: false
 plugins:
   - jemoji
+
+# Optional configurations
+header: 
+  title: "Welcome to My Portfolio"
+  description: "Showcasing my projects and blogs on data science, machine learning, and more."
+  background: "images/hero-background.jpg"  # Add a custom background image
+
+# SEO optimization
+url: "https://username.github.io"
+baseurl: ""
+google_analytics: "UA-XXXXXXX-X"  # Add your Google Analytics ID
+
+# Navbar
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Projects"
+    url: "/projects"
+  - title: "Blog"
+    url: "/blog"
+  - title: "Contact"
+    url: "/contact"
+
+# Social Media Integration
+social:
+  github: username
+  linkedin: your-linkedin-profile
+  twitter: your-twitter-handle
+
+# Custom CSS
+sass:
+  style: compressed
