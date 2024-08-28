@@ -1,4 +1,17 @@
 <style>
+body {
+  background-image: url('[path_to_your_image.jpg](https://user-images.githubusercontent.com/54947386/197055002-d56e4302-a3c7-4f20-9e2d-7d69b2ba9756.png)');
+  background-size: cover; /* Cover the entire page */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-attachment: fixed; /* Fix the background during scroll */
+  color: white; /* Optional: Change text color to contrast the background */
+}
+</style>
+
+
+
+<style>
 .button {
   background-color: #4CAF50; /* Green background */
   border: none; /* Remove borders */
