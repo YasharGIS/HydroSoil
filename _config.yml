@@ -13,9 +13,9 @@ header:
   background: "images/hero-background.jpg"  # Add a custom background image
 
 # SEO optimization
-url: "https://username.github.io"
-baseurl: ""
-google_analytics: "UA-XXXXXXX-X"  # Add your Google Analytics ID
+#url: "https://username.github.io"
+#baseurl: ""
+#google_analytics: "UA-XXXXXXX-X"  # Add your Google Analytics ID
 
 # Navbar
 nav:
